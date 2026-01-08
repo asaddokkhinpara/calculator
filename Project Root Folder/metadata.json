@@ -1,0 +1,7 @@
+{
+  "name": "AuraCalc AI",
+  "description": "A sophisticated scientific calculator combined with a powerful Gemini-powered math assistant for solving complex word problems and explaining mathematical concepts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

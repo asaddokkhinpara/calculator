@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.auracalc.ai",
+  "appName": "AuraCalc AI",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
